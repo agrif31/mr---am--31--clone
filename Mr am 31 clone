@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/USERNAME/mr-am-31-clone.git
+git add .
+git commit -m "Upload Mr. AM 31 AI Clone"
+git push origin main
